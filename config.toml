@@ -29,7 +29,7 @@ pygmentsUseClasses = true
 #    href = "https://github.com/dx6682"
   [[params.links]]
     title = "Link2"
-    href = "https://umaskey.net"
+    href = "https://umaskey.net/@dx6682"
     icon = "https://orenoaiba.ga/img/misskey_icon.png"
   [[params.links]]
     title = "Link3"
