@@ -1,4 +1,36 @@
 baseURL = "https://orenoaiba.ga/"
-languageCode = "ja_jp"
+languageCode = "ja-jp"
 title = "俺の愛馬が！"
-theme = "ananke"
+theme = "github-style"
+#googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "dx6682"
+  description = ""
+  github = "dx6682"
+  #facebook = "MeiK2333"
+  #twitter = "MeiK2333"
+  #linkedin = "MeiK2333"
+  #instagram = "MeiK2333"
+  #tumblr = "MeiK2333"
+  #email = "meik2333@gmail.com"
+  url = "https://umaskey.net"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  favicon = "/img/favicon.jpg"
+  location = "Japan"
+  userStatusEmoji = "🥴"
+
+#  [[params.links]]
+#    title = "Link"
+#    href = "https://github.com/dx6682"
+  [[params.links]]
+    title = "Link2"
+    href = "https://umaskey.net"
+    icon = "img/favicon.jpg"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
