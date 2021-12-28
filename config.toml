@@ -30,15 +30,15 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link2"
     href = "https://umaskey.net"
-    icon = "img/misskey_icon.png"
+    icon = "https://orenoaiba.ga/img/misskey_icon.png"
   [[params.links]]
     title = "Link3"
     href = "https://mstdn.poyo.me/@dx6682"
-    icon = "img/mastodon_icon.png"
+    icon = "https://orenoaiba.ga/img/mastodon_icon.png"
     [[params.links]]
     title = "Link4"
     href = "https://twitter.com/se_rval"
-    icon = "img/twitter_icon.png"
+    icon = "https://orenoaiba.ga/img/twitter_icon.png"
 
 
 [frontmatter]
