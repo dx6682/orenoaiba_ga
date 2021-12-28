@@ -10,19 +10,19 @@ pygmentsUseClasses = true
   author = "dx6682"
   description = ""
   github = "dx6682"
-  #facebook = "MeiK2333"
-  #twitter = "MeiK2333"
-  #linkedin = "MeiK2333"
-  #instagram = "MeiK2333"
-  #tumblr = "MeiK2333"
-  #email = "meik2333@gmail.com"
+  #facebook = ""
+  #twitter = "@se_Rval"
+  #linkedin = ""
+  #instagram = ""
+  #tumblr = ""
+  #email = "7a@setsna.com"
   url = "https://umaskey.net"
   keywords = "blog"
-  rss = true
+  rss = false
   lastmod = true
   favicon = "/img/favicon.jpg"
   location = "Japan"
-  userStatusEmoji = "🥴"
+  userStatusEmoji = "😂"
 
 #  [[params.links]]
 #    title = "Link"
@@ -30,7 +30,16 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link2"
     href = "https://umaskey.net"
-    icon = "img/favicon.jpg"
+    icon = "img/misskey_icon.png"
+  [[params.links]]
+    title = "Link3"
+    href = "https://mstdn.poyo.me/@dx6682"
+    icon = "img/mastodon_icon.png"
+    [[params.links]]
+    title = "Link4"
+    href = "https://twitter.com/se_rval"
+    icon = "img/twitter_icon.png"
+
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
