@@ -2,7 +2,7 @@ baseURL = "https://orenoaiba.ga/"
 languageCode = "ja-jp"
 title = "俺の愛馬が！"
 theme = "github-style"
-#googleAnalytics = "UA-123456-789"
+#googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
