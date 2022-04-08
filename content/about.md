@@ -7,5 +7,4 @@ cover = ""
 summary = ""
 +++
 # Links
-![umaskey]("/img/misskey_icon.png")<br>
-<img src="/img/misskey_icon.png" width="50%">
+<center><img src="/img/misskey_icon.png" width="100"></center><br>
