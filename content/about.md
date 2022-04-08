@@ -6,4 +6,5 @@ keywords = ["hugo", "test"]
 cover = ""
 summary = ""
 +++
-# 準備中...
+# Links
+![umaskey]("/img/misskey_icon.png")<br>
