@@ -1,4 +1,4 @@
 [submodule "themes/hugo-sugoi"]
 	path = themes/hugo-sugoi
-	url = https://github.com/aanupam23/hugo-sugoi.git
+	url = https://github.com/dx6682/hugo-sugoi.git
 	branch = master
