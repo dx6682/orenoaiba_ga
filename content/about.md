@@ -7,17 +7,3 @@ cover = ""
 summary = ""
 +++
 調整中...
-//こんにちは！dx6682です。なんもできません。<br>
-//### Links
-//# Misskey(うますき～)
-//<center><img src="/img/misskey_icon.png" width="10%"><br>
-//[**@dx6682@umaskey.net**](https://umaskey.net/@dx6682/)</center><br>
-//<br>
-//# Twitter
-//<center><img src="/img/twitter_icon.png" width="10%"><br>
-//[**@se_Rval**](https://twitter.com/se_rval)</center><br>
-//<br>
-//# GitHub
-//<center><img src="/img/github_icon.png" width="10%"><br>
-//[**dx6682**](https://github.com/dx6682/)</center><br>
-//<br>
